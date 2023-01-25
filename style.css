@@ -1,0 +1,18 @@
+.base { 
+    width: 300px;
+    height: 350px;
+    background-color: #ffffff;
+    box-shadow: 0 0 3px 3px #D3D3D3;
+    overflow: hidden;
+    border-radius: 9px;
+}
+
+body { background-color: #ADD8E6;}
+
+.QR Code {  
+    width: 250px;
+    height: 100px;
+    background-color: #0000FF;
+    margin: 20px auto;
+    border-radius: 9px;
+}

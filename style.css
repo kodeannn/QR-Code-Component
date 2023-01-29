@@ -3,7 +3,7 @@
   width: 170px;
   height: 300px;
   border-radius: 10px;
-  margin: auto;
+  margin: 12em auto;
   padding: 1%;
 }
 
@@ -17,6 +17,7 @@
   font-size: 15px;
   font-weight: 700;
 }
+
 
 .p2 {
   text-align: center;
